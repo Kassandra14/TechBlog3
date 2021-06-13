@@ -11,8 +11,8 @@ This is a blog site application that uses npm packages express, sequelize and ha
 
 ## Links
 
-* Deployed Application : 
-* Heroku: ?
+* Deployed Application : https://kassandra14.github.io/TechBlog3/ 
+* Heroku: https://techblog3.herokuapp.com/
 * GitHub repository URL:  https://github.com/Kassandra14/TechBlog3
 
 
